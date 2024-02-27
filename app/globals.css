@@ -6,6 +6,7 @@
 @layer utilities {
   .main {
     box-shadow: 2px 2px 0 theme("colors.orange.600");
+    font-size: large;
   }
 }
 /* @font-face {
